@@ -1,2 +1,2 @@
 # gitProject-Essai
-Prepar for collaboration in gitHub
+Exercice and practice  for collaboration in gitHub
